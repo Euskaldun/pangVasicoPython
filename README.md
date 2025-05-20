@@ -1,0 +1,2 @@
+# pangVasicoPython
+Un Pang basico
